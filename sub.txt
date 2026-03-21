@@ -1,7 +1,0 @@
-trojan://da75157f-e286-463d-aad6-2074be79b76d@141.98.24.234:443?type=tcp&security=reality&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&fp=random&sni=www.google.com&sid=07&spx=%2F# 🏳️WIFI #1%20-%20ZENTA-PROXY
-ss://YWVzLTI1Ni1nY206YmZmODc2ZWQtMmNjNC00MGY3LTljNTYtNTJkNDMwMThiMjNi@51.250.15.84:443#🏳️LTE #1 - ZENTA-RPOXY
-trojan://6a07393d-cb9b-422b-b597-9aba20647587@95.163.214.148:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=yIMXNKidPL0eI7DOy7ukSWjU4KNXWqaeyH_V7CXZIQQ&sid=b9&spx=/#%F0%9F%87%AA%F0%9F%87%B8 LTE #2%20-%20ZENTA-PROXY
-vless://ef038855-6c2d-45ae-b371-1d1bcf85b9f3@95.163.215.2:443?type=tcp&security=reality&pbk=94pLRgQGhP8s5OfniyB2C9lghcyFW8O4Z4oOEl7ak2Y&fp=random&sni=www.google.com&sid=bb&spx=%2F#🏳️LTE #3 - Express%20-%20ZENTA-PROXY
-vless://1ad47b2c-a16d-4689-872a-6228eb3fa13e@37.139.32.100:443?type=tcp&security=reality&pbk=6vOTAOtlCiopleiQTH3SBrulc5hHdH5OQlziTOna_SY&fp=random&sni=www.google.com&sid=22&spx=%2F# 🏳️LTE #4%20-%20ZENTA-PROXY
-vless://89a22017-51c2-49d2-969c-0cd6357e6e37@51.250.97.23:443?type=tcp&security=reality&pbk=ztkSbPm225wqr3Kw6oK1pYaIXPsSK7UBQYgjRGJNqwk&fp=random&sni=www.google.com&sid=52&spx=%2F# 🏳️LTE #5%20-%20ZENTA-PROXY
-trojan://4956581b-6228-4bad-a8a2-1cc37fedb2be@51.250.19.99:443?type=tcp&security=reality&pbk=eKlz6AdF-WCpTC5DwzA54AzY4rxLpSD-Y0B2jJ_hmzM&fp=random&sni=www.google.com&sid=38&spx=%2F# 🏳️LTE #6%20-%20ZENTA-PROXY
