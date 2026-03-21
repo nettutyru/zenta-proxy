@@ -1,5 +1,6 @@
 ﻿# 🔥 ZENTA-PROXY | @zentaproxy
 # 🌍 Быстрые сервера | 🔒 Без логов
+vless://06272026-c24f-4d33-baef-02096b551341@95.163.213.28:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=NbtcskpeWiPdLyCtGAjRtOm-aLK4zWqgunShfSj0XRs&sid=d7&spx=/#%F0%9F%87%B5%F0%9F%87%B1PROXY%20%E2%80%94%20GAME%20%232%20-%20ZENTA-PROXY
 trojan://da75157f-e286-463d-aad6-2074be79b76d@141.98.24.234:443?type=tcp&security=reality&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&fp=random&sni=www.google.com&sid=07&spx=%2F# 🏳️WIFI #1%20-%20ZENTA-PROXY
 ss://YWVzLTI1Ni1nY206YmZmODc2ZWQtMmNjNC00MGY3LTljNTYtNTJkNDMwMThiMjNi@51.250.15.84:443#🏳️LTE #1 - ZENTA-RPOXY
 trojan://6a07393d-cb9b-422b-b597-9aba20647587@95.163.214.148:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=yIMXNKidPL0eI7DOy7ukSWjU4KNXWqaeyH_V7CXZIQQ&sid=b9&spx=/#%F0%9F%87%AA%F0%9F%87%B8 LTE #2%20-%20ZENTA-PROXY
