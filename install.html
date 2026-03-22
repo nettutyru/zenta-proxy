@@ -15,7 +15,14 @@ body {
   color:white;
   font-family:Arial, sans-serif;
 }
-.box { text-align:center; }
+.box { text-align:center; width:90%; max-width:400px; }
+input {
+  padding:10px;
+  border-radius:8px;
+  border:none;
+  width:80%;
+  margin-bottom:15px;
+}
 .btn {
   padding:15px 25px;
   background:#00ffaa;
@@ -25,7 +32,6 @@ body {
   font-weight:bold;
   cursor:pointer;
   display:inline-block;
-  margin-top:15px;
 }
 .notice {
   margin-top:15px;
@@ -36,28 +42,33 @@ body {
 <script>
 const vpnLink = "https://nettutyru.github.io/zenta-proxy/sub.txt";
 
-// авто-переход через 1.5 секунды
-setTimeout(() => {
-  window.location.href = "happ://add?url=" + vpnLink;
-}, 1500);
-
-// функция для копирования ссылки вручную
-function copyAndOpen() {
-  navigator.clipboard.writeText(vpnLink).then(() => {
-    alert("Ссылка скопирована! Вставь в Happ → Подписки");
-    window.location.href = "happ://add?url=" + vpnLink;
-  }).catch(() => {
-    alert("Не удалось скопировать ссылку, скопируй вручную:\n" + vpnLink);
-  });
+// функция проверки номера договора и продолжения
+function checkContract() {
+  const contract = parseInt(document.getElementById("contract").value);
+  if(contract >= 1000 && contract <= 1030) {
+    // копирование ссылки и открытие Happ
+    navigator.clipboard.writeText(vpnLink).then(() => {
+      alert("Номер договора верный! Ссылка скопирована, вставь в Happ → Подписки.");
+      window.location.href = "happ://add?url=" + vpnLink;
+    }).catch(() => {
+      alert("Не удалось скопировать ссылку, скопируй вручную:\n" + vpnLink);
+      window.location.href = "happ://add?url=" + vpnLink;
+    });
+  } else {
+    alert("Неверный номер договора!");
+  }
 }
+
+// авто-переход через 1.5 сек только если номер договора введен вручную
 </script>
 </head>
 <body>
 <div class="box">
   <h1>ZENTA VPN</h1>
-  <p>Подключение...</p>
-  <div class="btn" onclick="copyAndOpen()">Подключить вручную</div>
-  <div class="notice">Ссылка автоматически скопируется в буфер обмена</div>
+  <p>Введите номер договора, чтобы подключиться</p>
+  <input type="number" id="contract" placeholder="Номер договора (1000–1030)">
+  <div class="btn" onclick="checkContract()">Продолжить</div>
+  <div class="notice">Ссылка будет скопирована автоматически после проверки.</div>
 </div>
 </body>
 </html>
