@@ -1,5 +1,3 @@
-﻿# 🔥 ZENTA-PROXY | @zentaproxy
-# 🌍 Быстрые сервера | 🔒 Без логов
 vless://06272026-c24f-4d33-baef-02096b551341@95.163.213.28:443?flow=&type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=NbtcskpeWiPdLyCtGAjRtOm-aLK4zWqgunShfSj0XRs&sid=d7&spx=/#%F0%9F%87%B5%F0%9F%87%B1%F0%9F%87%B5%F0%9F%87%B1Game%20%230%20%5BZENTA-PROXY%5D
 trojan://da75157f-e286-463d-aad6-2074be79b76d@141.98.24.234:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&sid=07&spx=/#%F0%9F%8F%B3%EF%B8%8FLTE%20%231%20%5BZENTA-PROXY%5D
 ss://YWVzLTI1Ni1nY206YmZmODc2ZWQtMmNjNC00MGY3LTljNTYtNTJkNDMwMThiMjNi@51.250.15.84:443#🏳️LTE #2 [ZENTA-PROXY]
