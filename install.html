@@ -23,24 +23,41 @@ body {
   text-decoration:none;
   color:black;
   font-weight:bold;
+  cursor:pointer;
+  display:inline-block;
+  margin-top:15px;
+}
+.notice {
+  margin-top:15px;
+  font-size:14px;
+  opacity:0.7;
 }
 </style>
 <script>
-function openHapp() {
-  window.location.href = "happ://add?url=https://nettutyru.github.io/zenta-proxy/sub.txt";
-}
+const vpnLink = "https://nettutyru.github.io/zenta-proxy/sub.txt";
 
 // авто-переход через 1.5 секунды
-setTimeout(openHapp, 1500);
+setTimeout(() => {
+  window.location.href = "happ://add?url=" + vpnLink;
+}, 1500);
+
+// функция для копирования ссылки вручную
+function copyAndOpen() {
+  navigator.clipboard.writeText(vpnLink).then(() => {
+    alert("Ссылка скопирована! Вставь в Happ → Подписки");
+    window.location.href = "happ://add?url=" + vpnLink;
+  }).catch(() => {
+    alert("Не удалось скопировать ссылку, скопируй вручную:\n" + vpnLink);
+  });
+}
 </script>
 </head>
 <body>
 <div class="box">
   <h1>ZENTA VPN</h1>
   <p>Подключение...</p>
-  <a class="btn" href="https://nettutyru.github.io/zenta-proxy/sub.txt">
-    Подключить вручную
-  </a>
+  <div class="btn" onclick="copyAndOpen()">Подключить вручную</div>
+  <div class="notice">Ссылка автоматически скопируется в буфер обмена</div>
 </div>
 </body>
 </html>
