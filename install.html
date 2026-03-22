@@ -1,92 +1,46 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <meta charset="UTF-8">
-  <title>ZENTA VPN</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ZENTA VPN</title>
+<style>
+body {
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#0f0f0f;
+  color:white;
+  font-family:Arial, sans-serif;
+}
+.box { text-align:center; }
+.btn {
+  padding:15px 25px;
+  background:#00ffaa;
+  border-radius:12px;
+  text-decoration:none;
+  color:black;
+  font-weight:bold;
+}
+</style>
+<script>
+function openHapp() {
+  window.location.href = "happ://add?url=https://nettutyru.github.io/zenta-proxy/sub.txt";
+}
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #0f0f0f, #1a1a2e);
-      color: white;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
-    .container {
-      text-align: center;
-      padding: 30px;
-      border-radius: 20px;
-      background: rgba(255,255,255,0.05);
-      backdrop-filter: blur(10px);
-      box-shadow: 0 0 30px rgba(0,0,0,0.5);
-      max-width: 400px;
-      width: 90%;
-    }
-
-    h1 {
-      font-size: 32px;
-      margin-bottom: 10px;
-      letter-spacing: 2px;
-    }
-
-    p {
-      font-size: 14px;
-      opacity: 0.7;
-      margin-bottom: 25px;
-    }
-
-    .btn {
-      display: inline-block;
-      padding: 15px 25px;
-      border-radius: 12px;
-      background: linear-gradient(90deg, #00f5a0, #00d9f5);
-      color: black;
-      text-decoration: none;
-      font-weight: bold;
-      transition: 0.3s;
-    }
-
-    .btn:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 15px #00f5a0;
-    }
-
-    .small {
-      margin-top: 20px;
-      font-size: 12px;
-      opacity: 0.5;
-    }
-  </style>
-
-  <script>
-    function openVPN() {
-      window.location.href = "happ://install-config?url=https://nettutyru.github.io/zenta-proxy/sub.txt";
-    }
-
-    // Авто-переход через 2 секунды
-    setTimeout(openVPN, 2000);
-  </script>
-
+// авто-переход через 1.5 секунды
+setTimeout(openHapp, 1500);
+</script>
 </head>
 <body>
-
-<div class="container">
-  <h1>ZENTA</h1>
-  <p>Быстрое подключение к VPN</p>
-
-  <a class="btn" href="happ://install-config?url=https://nettutyru.github.io/zenta-proxy/sub.txt">
-    Подключить VPN
+<div class="box">
+  <h1>ZENTA VPN</h1>
+  <p>Подключение...</p>
+  <a class="btn" href="https://nettutyru.github.io/zenta-proxy/sub.txt">
+    Подключить вручную
   </a>
-
-  <div class="small">
-    Если не открылось — нажми кнопку
-  </div>
 </div>
-
 </body>
 </html>
