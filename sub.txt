@@ -13,5 +13,4 @@ vless://13c1bcd5-71c0-0bb8-8972-d4da5c0f3c8a@89.208.230.64:443?flow=xtls-rprx-vi
 vless://13c1bcd5-71c0-01f4-8972-d4da5c0f3c8a@89.208.230.167:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=anti-vpn.ru&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🏳️LTE #13 [ZENTA-PROXY]
 vless://7a99c653-7627-4f26-b8d7-6cb31ff4d019@94.139.246.255:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=vkclip.enotfast.com&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&sid=12b4bc71293e01#🏳️LTE #14 [ZENTA-PROXY]
 vless://13c1bcd5-71c0-1f40-8972-d4da5c0f3c8a@109.120.188.9:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=anti-vpn.ru&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🏳️LTE #15 [ZENTA-PROXY]
-vless://a22f6494-f371-07d0-bad0-8df9594b8e45@109.120.188.9:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=anti-vpn.ru&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🏳️LTE #16 [ZENTA-PROXY]
-vless://d3cecdcf-7fdf-028e-9f9a-19eac9a16d6a@212.233.97.161:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#🏳️LTE #17 [ZENTA-PROXY]
+vless://cfb865de-e5cd-4ac1-9dbc-3b44387a6453@51.250.75.202:443?type=tcp&security=reality&fp=random&sni=www.google.com&pbk=UZT93U4NxN5cwJpoWEPUTSdkGZy1cKfBkind0dDpRWo&sid=0c#🏳️LTE #16 [ZENTA-PROXY]
