@@ -1,20 +1,13 @@
-// sub.js
-const allowedKeys = ["checkup-proxy-key", "mangovuser"];
-const subscriptionName = "⚡ ZENTA-PROXY";
+export default {
+  async fetch(request) {
+    const resp = await fetch("https://nettutyru.github.io/zenta-proxy/sub.txt");
+    const text = await resp.text();
 
-async function loadSub() {
-    const params = new URLSearchParams(window.location.search);
-    const key = params.get("key");
-
-    if (!allowedKeys.includes(key)) {
-        document.body.innerText = "# Access denied";
-        return;
-    }
-
-    const res = await fetch("sub.txt");
-    const text = await res.text();
-
-    document.body.innerText = "# " + subscriptionName + "\n" + text;
+    return new Response(text, {
+      headers: {
+        "content-type": "text/plain",
+        "profile-title": "БЕЛЫЙ САМУРАЙ ВПН @zenta_proxy"
+      }
+    });
+  }
 }
-
-loadSub();
