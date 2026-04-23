@@ -1,18 +1,6 @@
-vless://60f14063-b736-49eb-b569-1f88ab1e3f8f@94.250.254.40:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=vS9yfIMA47ccx5MB94LPqGY531I63l4eSheR1o2OGh8&sid=cf&spx=/#%F0%9F%8F%B3%EF%B8%8FLTE%20%230%20%5BZENTA-PROXY%5D 
-trojan://da75157f-e286-463d-aad6-2074be79b76d@141.98.24.234:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&sid=07&spx=/#%F0%9F%8F%B3%EF%B8%8FLTE%20%231%20%5BZENTA-PROXY%5D
-vless://3eaf34ff-a11c-419f-8c4c-9f4a32b0f8ea@141.98.24.229:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=qzpZN01FcpKpOnaMtcgPHs6qC1QNixpqylvQQJ1ruC0&sid=ac&spx=/#🏳️LTE #2 [ZENTA-PROXY]
-vless://b41a7ad1-a7f8-4033-aa77-5ae3ac9b9465@45.84.1.239:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=AjDrpyGR6PRpuC59XUkIIc94wGvpWKq46dHsX9Kev0s&sid=23&spx=/#🏳️LTE #3 [ZENTA-PROXY]
-vless://6a15751b-35ac-4fed-82de-0a0ae9cb7ded@176.12.65.160:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=SRHrsW8SsDzB39x0oYS913kU0w4qLXn6qfzXBiXm7h4&sid=ae&spx=/#🏳️LTE #4 [ZENTA-PROXY]
-trojan://d7ecc1dd-64c8-4cf2-ad59-1917c833c86a@141.98.24.171:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=AMedqoeryvoTmJU4BHAZIlrFXf4VzI--ZfEWMCXyfSg&sid=2c&spx=/#🏳️LTE #5 [ZENTA-PROXY]
-vless://7708a58c-7fff-41b8-a2a2-517d46fcb81c@85.239.38.109:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=Zrgt_tMpNo69MsHW-z4_jfSCc8Ku-9hYKzW4p76NJA4&sid=a5&spx=/#YOUTUBE%20%236%20%5BZENTA-PROXY%5D
-trojan://a08687c6-3d33-4b3b-820e-36c3e1b0cf7c@5.129.200.219:443?type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=T5tzFKRq9CYqYmugqfTvzp320l_I5uBz93xL-GNs5Tk&sid=95&spx=/#YOUTUBE%20%237%20%5BZENTA-PROXY%5D
-vless://d7356a5d-251e-4569-92ec-f3540f11896c@82.41.181.44:443?flow=&type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=X7TWAcG2ukeEcfbSXkaWT0kZmQiOzMGrvAiGhvwDjic&sid=c2&spx=/#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%87%B3%F0%9F%87%B1WIFI%20%238%20%5BZENTA-PROXY%5D
-vless://3eaf34ff-a11c-419f-8c4c-9f4a32b0f8ea@141.98.24.229:443?flow=&type=tcp&headerType=none&security=reality&fp=random&sni=www.google.com&pbk=qzpZN01FcpKpOnaMtcgPHs6qC1QNixpqylvQQJ1ruC0&sid=ac&spx=/#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%87%B3%F0%9F%87%B1WIFI%20%239%20%5BZENTA-PROXY]
-ss://YWVzLTI1Ni1nY206MmRjMDVhZWItZWIzZi00N2RmLTg3ZDMtMDAyY2RmYmUwYmEw@37.139.34.104:443#🏳️ LTE #10 [ZENTA-PROXY]
-vless://13c1bcd5-71c0-0bb8-8972-d4da5c0f3c8a@89.208.230.64:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=anti-vpn.ru&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🏳️LTE #12 [ZENTA-PROXY]
-vless://13c1bcd5-71c0-01f4-8972-d4da5c0f3c8a@89.208.230.167:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=anti-vpn.ru&alpn=h2,http/1.1&fp=qq&allowInsecure=0#🏳️LTE #13 [ZENTA-PROXY]
-vless://7a99c653-7627-4f26-b8d7-6cb31ff4d019@94.139.246.255:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=vkclip.enotfast.com&pbk=CGOMSAFIwnQdt2HQ3yTZr608Dc_fhjjIenocbiCYZWk&sid=12b4bc71293e01#🏳️LTE #14 [ZENTA-PROXY]
-vless://e7576b76-5a5a-48f6-bec9-4417299b3e16@87.239.107.157:444?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&sid=4294a4b21e2e13a0#🏳️LTE #15 [ZENTA-PROXY]
-vless://cfb865de-e5cd-4ac1-9dbc-3b44387a6453@51.250.75.202:443?type=tcp&security=reality&fp=random&sni=www.google.com&pbk=UZT93U4NxN5cwJpoWEPUTSdkGZy1cKfBkind0dDpRWo&sid=0c#🏳️LTE #16 [ZENTA-PROXY]
-vless://e7576b76-5a5a-48f6-bec9-4417299b3e16@89.208.220.9:445?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=vk.ru&pbk=4YQsvWdHHcFomhtlHRyQyMSnJtAaVl5wYupTWnYUYn4#🏳️LTE #17[ZENTA-PROXY]
-vless://e7576b76-5a5a-48f6-bec9-4417299b3e16@po.plus-two.ru:9443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo#%F0%9F%87%B5%F0%9F%87%B1🏳️LTE #18 [ZENTA-PROXY]
+vless://pay@0.0.0.0:443?encryption=none&type=tcp#🔴_СТАРАЯ_ПОДПИСКА
+vless://pay@0.0.0.0:443?encryption=none&type=tcp#🔴_ОБНОВИТЕ_ЕЕ_ДЛЯ ЭТОГО
+vless://pay@0.0.0.0:443?encryption=none&type=tcp#🔴_Обратитесь_в_поддержку
+vless://pay@0.0.0.0:443?encryption=none&type=tcp#🔴_vk.com/zenta_net
+vless://pay@0.0.0.0:443?encryption=none&type=tcp#🔴_ИЛИ_
+vless://pay@0.0.0.0:443?encryption=none&type=tcp#🔴_tg_zentaproxy
